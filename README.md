@@ -20,7 +20,4 @@ Project Work
 Dashboard
 
 Customer Overview
-[Customer Overview](https://github.com/asrpriyanshu/Olist-Customer-Analytics/blob/main/Customer%20Analytics%20Overview)
-
 Customer Segmentation & Retention
-[Customer Segmentation & Retention](customer-segmentation-retention.png)
