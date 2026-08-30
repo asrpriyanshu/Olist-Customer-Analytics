@@ -20,5 +20,6 @@ Project Work
 Dashboard
 
 Customer Overview
-
+![Customer Overview](Customer-Analytics-Overview.png)
 Customer Segmentation & Retention
+![Customer Segmentation & Retention](Customer-Segmentation-&-Retention.png)
